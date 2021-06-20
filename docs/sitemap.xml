@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://CoderDojoTomiyaJP.github.io/about/</loc>
-    <lastmod>2021-06-20T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://CoderDojoTomiyaJP.github.io/</loc>
-    <lastmod>2021-06-20T00:00:00+02:00</lastmod>
+    <lastmod>2021-06-21T00:01:35+09:00</lastmod>
   </url><url>
     <loc>https://CoderDojoTomiyaJP.github.io/post/</loc>
-    <lastmod>2021-05-30T23:37:44+09:00</lastmod>
+    <lastmod>2021-06-21T00:01:35+09:00</lastmod>
+  </url><url>
+    <loc>https://CoderDojoTomiyaJP.github.io/2021/06/21/%E7%AC%AC1%E5%9B%9E%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</loc>
+    <lastmod>2021-06-21T00:01:35+09:00</lastmod>
+  </url><url>
+    <loc>https://CoderDojoTomiyaJP.github.io/about/</loc>
+    <lastmod>2021-06-20T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://CoderDojoTomiyaJP.github.io/2021/05/30/%E7%AC%AC0%E5%9B%9E%E3%83%86%E3%82%B9%E3%83%88%E5%9B%9E%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</loc>
     <lastmod>2021-05-30T23:37:44+09:00</lastmod>
