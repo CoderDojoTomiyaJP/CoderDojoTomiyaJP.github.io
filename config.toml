@@ -16,7 +16,7 @@ HasCJKLanguage = true
 publishDir = "docs"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/post/:year/:month/:day/:slug"
 
 
 [params]
