@@ -13,6 +13,8 @@ theme = "hugo-icarus"
 themesDir = "./themes/"
 HasCJKLanguage = true
 
+publishDir = "docs"
+
 [permalinks]
     post = "/:year/:month/:day/:slug"
 
