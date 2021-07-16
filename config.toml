@@ -26,11 +26,11 @@ publishDir = "docs"
     location = "宮城県富谷市"
     site_description = ""
     copyright  = "CoderDojo 富谷"
-    avatar = "images/logo_japan.png"
+    avatar = "images/logo_tomiya.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
     gravatar = ""
-    logo = "images/logo_japan.png"
+    logo = "images/logo_tomiya.png"
     disable_mathjax = false # set to true to disable MathJax
 
     # define which types of pages should be shown. By default the type with the most regular pages
